@@ -6,13 +6,12 @@ Console.WriteLine(GetAvarage(arr));
 
 static double GetAvarage(int[] arr)
 {
-    int sum = 0;
+    int suma = 0;
     foreach (var num in arr)
     {
-        sum += num;
+        suma += num;
     }
-
-    return (double)sum / arr.Length;
+    return (double)suma / arr.Length;
 }
 
 // Hi from future
