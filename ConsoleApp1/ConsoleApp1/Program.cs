@@ -31,3 +31,4 @@ static double GetMax(int[] arr)
 }
 
 Console.WriteLine(GetMax(arr));
+//Doing "rollback" <3 cuz need to rebase
