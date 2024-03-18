@@ -13,3 +13,5 @@ static double GetAvarage(int[] arr)
     }
     return (double)sum / arr.Length;
 }
+
+// Hi from future
